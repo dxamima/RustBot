@@ -1,2 +1,2 @@
 # RustBot
-A Discord bot coded in Rust, with [Serenity](https://github.com/serenity-rs/serenity) with some nice commands
+A Discord bot coded in Rust, using [Serenity](https://github.com/serenity-rs/serenity), with some nice commands
